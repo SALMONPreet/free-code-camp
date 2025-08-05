@@ -1,2 +1,2 @@
 # free code camp problems
-This repo has all freecode camp challenges that ive completed
+This repo has all and upcoming freecode camp challenges that ive completed
