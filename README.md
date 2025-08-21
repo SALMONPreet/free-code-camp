@@ -1,4 +1,4 @@
-# <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/30fa1bdd-c243-4d00-a363-5ab36eb6e423" />
+# <img width="1036" height="524" alt="image" src="https://github.com/user-attachments/assets/30fa1bdd-c243-4d00-a363-5ab36eb6e423" />
 
 # 💻 freeCodeCamp problems
 ## This repo has all and upcoming freeCodeCamp challenges that ive completed.
